@@ -1,4 +1,4 @@
-# Palindrome_checker
+# Palindrome_checker :loop:
 
 GIVEN STRING IS PALINDROME OR NOT.
 
